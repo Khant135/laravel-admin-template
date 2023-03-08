@@ -1,4 +1,4 @@
-This the ready to use Admin Panel Template for Laravel
+This is the ready to use Admin Panel Template for Laravel
 
 All you need to do is pull the project, create .env and run php artisan key:generate
 
